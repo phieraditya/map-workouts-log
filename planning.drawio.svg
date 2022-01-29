@@ -1,0 +1,93 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="585px" height="311px" viewBox="-0.5 -0.5 585 311" content="&lt;mxfile&gt;&lt;diagram id=&quot;ii7thySKuG5w-MXws-U9&quot; name=&quot;1.UserStories&quot;&gt;1ZZLT+MwEMc/TY9dpQmUciylwEoggSrYvbrJNPHWsYPt9MGn3/ErTUhBsOyFQ9X4P848fuMkM0hm5e5akqq4ExmwQRxlu0FyOYjjODpL8M8oe6/Ek8gpuaSZ00YHYUFfwIthW00zUJ2NWgimadUVU8E5pLqjESnFtrttJVg3akVy6AmLlLC++otmuvBqEkUHww3QvPChJ8FQkrDZC6ogmdi2pGQ+SGZSCO2uyt0MmKEXuLj7rt6wNolJ4PojN6j8/O73021xX6xv04fzCZ9G90PvZUNYHQr+getHBRL/FlpIivRd/nofoGjYYcgLpaVYw0wwIVHngqP5YkUZeyUVumS4Ghmr4No3OT4Ja+/Y2DcgNUX6U0ZzjlpJs8wYL4gXUqwWc0su+uWHWtAF7FqSx3ENogQt97jFW4ejOPHN2QfldOyVbavboadFq9EnXiP+gOWN+0MP8MK34XhL+DzZwOPyaTN/+PN0NX+4ebl9Hk56LRnEY2Z4C7x3nGtbvFMYfa0YoJ1mjZ9rEQxDZdFPccNoXO0OxuBlqkxF+KvtAcACop+GBbFOtRiYM+YCLcM9TOTmuBuusuaccrPcCrkWtVYWJHKMIyZSoqngzmtGlSY8BbfStPRXFTFaRHhmiwB8ypEh5bV2G1xs1JaHwiMlfJ4pQffRGqDyZbjcxMosLflumo03R61LEuU+3reBhzdXQJr8C90xKSvcyJeqaoU4hjrdp+xrqFUFkDWsgcHG3xTlhPI3aXdT/Cz6Ju3vhl4BdCtpYSfaO89ZA/rT6IAoyoxjLUm6DlEqKXIJykQRG/tOdg38bvgIs+U6iq/52UNH7Dez+iK8tAALb1uAhJAlRjJRaptrYTMQSn8/iO+dQSyYe4cMyAaaUklVNQ95KszZiZbugDGifR4f5K0Le9J7j3ut3JuoHfCLpxXF9tfu+PzRmis+OoqEMYLBSr83bmwLqmFhv0bJ5RZnW9SkqHkG5tMddSeZ0cl/m0fGvXkk7s8jp5Mj80h89vmBBJeH+dPaWmN8Mv8L&lt;/diagram&gt;&lt;diagram id=&quot;NpTnhywZuYufogElvAuJ&quot; name=&quot;2.Features&quot;&gt;nZNLU4MwEMc/DUcdXnXqsTzqa6qj6HjOkC1kGrI0DS310xskKdAeHL0w2d8+kt394wRx1d5JUpcrpMAd36WtEySO789mt/rbgWMPbuZuDwrJaI+8AWTsCwy0YQ2jsJsEKkSuWD2FOQoBuZowIiUepmFr5NNba1LABchywi/pJ6OqNDRw3cFxD6wozdVz66iIDTZgVxKKhxEKUieIJaLqT1UbA+9mZ+fynqWRdFcJzh5FmqgwDBfRVV9s+ZeUUwsShPp36e0DPkewqpu3zYv3sQ2eXv3MpLh7whszL/9a20sgqpF6bX3j6minqaDVL4h2SuIGYuQoNRcotDtaM87PUKkqri2v86JQRh1+aG1TuPPvQSqm17bgrBCaVYzSzhkRA3LdPOjakXmyjof2bMe/DMg7bU2rHbACJY86z1QJzTCM0O3aDyPVWG2UI8HYNGKEWpwKD8vQB7MPaw6y+fGN/r0g/QY=&lt;/diagram&gt;&lt;diagram id=&quot;fnoLr8vUrAKM3Sb8_2pq&quot; name=&quot;3.Flowchart&quot;&gt;nZNNU4MwEIZ/Dcc6fLSdehTa+jHKweo448WJsIXYwDIhLdBfb5BNgfbg6IXJPu9mk+y+WF6Q1beSFekTxiAs145ry1tarjubXetvC5oOzBd2BxLJ4w45PdjwIxA0aXseQzlKVIhC8WIMI8xziNSIMSmxGqdtUYxPLVgCF2ATMXFJ33isUqKebffCHfAkpaMXRsiYSSZQpizGaoC8leUFElF1q6wOQLS9M32ZQbMLV+F2OS1C+bFWC/f+YdIVW/9ly+kJEnL179LH8NP5epnjo4OTcvd6mL9nz7TFPjCxp355VzpeC6yilElFL1eNaaeCWl/BL5XEHQQoUGqeY65lf8uFOEOpyoSOnFbFXJE93KmJqXCrH0Aqrud2I3iSa5bxOG5FnxGI9OtB1/bpzjof6rMh/9Ih5zQ2bXfADJRs9D7jdeoGOd3MvRrYxpgjHThmSoyRU5NT4X4aekEDMWHvmx9t8PN5q28=&lt;/diagram&gt;&lt;diagram id=&quot;JiGqGk3nNg1sLlH6wOL3&quot; name=&quot;4.Architecture&quot;&gt;nZNNb4MwDIZ/DcdNFFpUjoV1H9omTWLapN0i4pKsAaMQWrpfvzCcFtrDtF1Q/LyOk9gvXpiW3Z1mtXhGDsoLfN554Y0XBItFbL89OAwgWvoDKLTkA5qdQCa/gKBLayWHZpJoEJWR9RTmWFWQmwljWuN+mrZBNT21ZgVcgCxn6pK+S24E0dD3T8I9yELQ0UsnlMwlE2gE47gfoXDthalGNMOq7FJQfe9cX55af9k8vmTbzTqOME635ef71VDs9i9bjk/QUJl/l864fH1QWRsH6Vug8lpE8oO2+DumWurX/NrGK50Laew4Wg30eHNwHTXQ2VskjdG4hRQVassrrKycbKRSZ0iYUtlo1qtYGXJIMHcxFe71HWgj7ehWShaVZaXkvBcTRiC3DQBbO6Fr23zozub8S5Nmx8lZxwOWYPTB7qMqETWEzO5Gvx85x/lDjEwzJ8bIrMWx8GkgdkEzceHJOj/a6P8L198=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="34" y="0" width="100" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 20px; margin-left: 84px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 24px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap;">
+                                1. User Stories
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="84" y="27" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="24px" text-anchor="middle" font-weight="bold">
+                    1. User...
+                </text>
+            </switch>
+        </g>
+        <rect x="4" y="40" width="580" height="270" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 578px; height: 1px; padding-top: 175px; margin-left: 6px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <ol>
+                                    <li>
+                                        <font style="font-size: 16px">
+                                            As a user, I want to
+                                            <b>
+                                                log my running workouts with location, distance, time, pace and steps/minute,
+                                            </b>
+                                            so I can keep a log of all my running
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font size="3">
+                                            As a user, I want to
+                                            <b>
+                                                log my cycling workouts with location, distance, time, speed and elevation gain,
+                                            </b>
+                                            so I can keep a log of all my cycling
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font size="3">
+                                            As a user, I want to
+                                            <b>
+                                                see all my workouts at a glance,
+                                            </b>
+                                            so I can easily track my progress over time
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font size="3">
+                                            As a user, I want to
+                                            <b>
+                                                also see my workouts on a map,
+                                            </b>
+                                            so I can easily check where I work out the most
+                                        </font>
+                                    </li>
+                                    <li>
+                                        <font size="3">
+                                            As a user, I want to
+                                            <b>
+                                                see all my workouts when I leave the app and come back later,
+                                            </b>
+                                            so that I can keep using the app over time
+                                        </font>
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="6" y="179" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="14px">
+                    As a user, I want to log my running workouts with location, distance, time, pace an...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
