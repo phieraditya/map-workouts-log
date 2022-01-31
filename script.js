@@ -13,10 +13,10 @@ navigator.geolocation.getCurrentPosition(
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
     }).addTo(map);
 
-    L.marker(coords)
-      .addTo(map)
-      .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
-      .openPopup();
+    map.on('click', function (mapEvent) {
+      const { lat, lng } = mapEvent.latlng;
+      L.marker([lat, lng]).addTo(map).bindPopup('Workout').openPopup();
+    });
   },
   function () {
     alert('Could not get your position');
