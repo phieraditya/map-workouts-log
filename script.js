@@ -12,7 +12,7 @@ const inputElevation = document.querySelector('.form__input--elevation');
 // DATA ARCHITECTURE
 class Workout {
   date = new Date();
-  id = (Date.now() + '').slice(-10);
+  id = (Date.now() + '').slice(-10); // just for app demo
 
   constructor(coords, distance, duration) {
     this.coords = coords; // [lat, lng]
@@ -45,6 +45,7 @@ class Cycling extends Workout {
   }
 }
 
+// test
 const running1 = new Running([-6.2947328, 106.9023232], 2.4, 18, 200);
 const cycling1 = new Cycling([-6.5947328, 107.1023232], 5, 24, 25);
 console.log(running1, cycling1);
@@ -100,7 +101,14 @@ class App {
   _newWorkout(e) {
     e.preventDefault();
 
-    // Clear input fields
+    // Get data from form
+    // Check if data is valid
+    // If workout running, create running object
+    // If workout cycling, create cycling object
+    // Add new object to workout array
+    // Render workout on map as marker
+    // Render workout on list
+    // Hide form + clear input fields
     inputDistance.value =
       inputDuration.value =
       inputCadence.value =
