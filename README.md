@@ -51,8 +51,12 @@ If you are interested, you can try it [here](https://phieraditya.github.io/map-w
 
 ## Flowchart
 
+![Flowchart](flowchart.png)
+
 
 
 ## Architecture
+
+![Architecture](architecture.png)
 
 
